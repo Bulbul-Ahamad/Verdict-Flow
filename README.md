@@ -66,5 +66,5 @@ It highlights strengths, identifies weak areas, and visualizes trends to help pr
 
 1. Clone the repository
    ```bash
-   git clone https://github.com/your-username/VerdictFlow.git
+   git clone https://github.com/Bulbul-Ahamad/Verdict-Flow.git
    cd VerdictFlow
