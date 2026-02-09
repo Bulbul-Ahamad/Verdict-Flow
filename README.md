@@ -1,4 +1,4 @@
-![VerdictFlow Banner](banner.png)
+![VerdictFlow Banner](images/banner.png)
 # 🚀 VerdictFlow
 
 **Track • Analyze • Improve**
